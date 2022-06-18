@@ -1,0 +1,33 @@
+hola-привіт
+como-як
+estar-бути
+vivir-жити
+morir-помирати
+beber-пити
+comer-їсти
+andar-йти
+dormir-спати
+apoyar-з'являтись
+estudiar-вчитись
+la escuela-школа
+la casa-дім
+la mesa-стіл
+la ruta-шлях
+la ropa-речі, одяг
+la manzana-яблуко
+la naranja-апельсин
+rojo-червоний
+blanco-білий
+negro-чорний
+grise-сірий
+la computadora-комп'ютер
+mantener-мати
+obtener-мати
+tener-мати
+quien-хто
+alguien-хтось
+nadie-ніхто
+madre-мати
+padre-батько
+hijo-син
+hija-дочка
